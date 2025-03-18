@@ -1,5 +1,5 @@
 [nxos]
-192.168.255.100
+192.168.255.100 nsible_python_interpreter=/usr/bin/python3
 
 [nxos:vars]
 ansible_network_os=nxos
