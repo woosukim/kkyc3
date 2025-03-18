@@ -1,6 +1,5 @@
 [nxos]
-sbx-nxos-mgmt.cisco.com
-1.1.1.1
+192.168.255.100
 
 [nxos:vars]
 ansible_network_os=nxos
